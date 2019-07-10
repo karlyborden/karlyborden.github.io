@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
+
+
+body {
+	font-family: 'Fredoka One';
+	color: orange;
+	text-align: center; 
+	background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/89e5e711700091.560fc00b871d1.jpg");
+}
+
+h1 {
+	font-size: 200px;
+	color: orange;
+	margin: 50px; 
+}
+
+h1 span {
+	background-color: white;
+}
+
+#slogan {
+	font-style: bold; 
+	font-size: 50px;
+}
+
+p {
+	font-style: bold;
+	font-size: 25px;
+}
+
+p span {
+	background-color: white;
+}
+
+p1 {
+	font-size: 30px;
+	font-style: bold;
+	background-color: white;
+}
+
+ul {
+	font-size: 30px;
+	color: orange;
+	list-style-position: inside;
+}
+
+ul span {
+	background-color: white;
+}
+
+img {
+	border-radius: 50%;
+	height: 200px;
+	
+}
