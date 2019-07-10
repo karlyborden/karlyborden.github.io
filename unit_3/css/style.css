@@ -1,0 +1,52 @@
+body {
+	text-align: center; 
+	background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/89e5e711700091.560fc00b871d1.jpg");
+	color: orange;
+}
+
+h1 {
+	font-size: 200px;
+	margin: 50px; 
+	color: orange;
+}
+
+h1 span {
+	background-color: white;
+}
+
+#slogan {
+	font-style: bold; 
+	font-size: 50px;
+	font-family: Arial Black; 
+}
+
+p {
+	font-family: Arial;
+	font-style: bold;
+	font-size: 25px;
+}
+
+p span {
+	background-color: white;
+}
+
+p1 {
+	font-size: 30px;
+	font-style: bold;
+	background-color: white;
+	font-family: Arial Black;
+}
+
+img {
+	border-radius: 50%;
+	height: 200px;
+}
+
+ul {
+	font-family: Arial;
+	font-size: 30px;
+}
+
+ul span {
+	background-color: white;
+}
