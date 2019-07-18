@@ -42,7 +42,7 @@ p {
 	padding: 20px;
 	margin: 10px;
 	background: orange;
-	color: white
+	color: white; 
 }
 
 .client_work {
@@ -75,23 +75,48 @@ p {
 	color: orange;
 }
 
-#twocolumn {
-	background-color: orange;
+#two_column {
+	padding: 1px;
+	margin: 0px 100px;
+
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0px;
+	content: " ";
+	clear: both; 
+	height: 0px; 
 }
 
 #left {
 	background-color: pink;
+	border: 1px red solid;
+	padding: 10px; 
+	margin: 10px; 
+	float: left;
+	width: 25%;
+	vertical-align: middle;
 }
 
 #right {
-	background-color: red;
+	background-color: pink;
+	border: 1px red solid;
+	padding: 10px;
+	margin: 100px;
+	float: right;
+	width: 62% 
+	color: black;
+	vertical-align: middle;
 }
 
 img {
 	border-radius: 50%;
-	height: 200px;
-	
+	width: 50px;
+
 }
+
 
 .social_media {
 	list-style: none; 
